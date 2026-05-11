@@ -37,5 +37,6 @@ The dashboard analyzes product category performance and overall sales trends usi
 - Extracting business insights from data  
 
 ---
+## 📊 Dashboard Preview
 ![Dashboard](assets/salesdashboard.png)
 
